@@ -8,6 +8,7 @@ There're two triangles with different z depths. The goal is to display the yello
 The main task
 1. implement insideTriangle() to check if a point is in a triangle
 2. implement rasterizer::rasterize_triangle() to paint the triangle and do occlusion
+3. Use MMSA to do anti-aliasing
 
 The triangle is applied with
 MVP transformation
