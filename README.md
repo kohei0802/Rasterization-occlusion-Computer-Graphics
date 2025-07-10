@@ -1,4 +1,4 @@
-# Rasterization-occlusion-Computer-Graphics
+# Rasterization-occlusion-anti-aliasing (computer graphics) 
 My solution to Games101 HW2 
 
 Eigen library. 
