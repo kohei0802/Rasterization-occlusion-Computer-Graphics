@@ -1,7 +1,7 @@
 # Rasterization-occlusion-anti-aliasing (computer graphics) 
 My solution to Games101 HW2 (with Eigen library)
 
-antialiasing with 2 * 2 MMSA 
+antialiasing with 2 * 2 MSAA
 
 <img width="451" height="361" alt="Screenshot from 2025-07-12 02-02-04" src="https://github.com/user-attachments/assets/3e1188c2-c031-4033-a7c2-2800ad295119" />
 
@@ -12,7 +12,7 @@ There're two triangles with different z depths. The goal is to display the yello
 The main task
 1. implement insideTriangle() to check if a point is in a triangle
 2. implement rasterizer::rasterize_triangle() to paint the triangle and do occlusion
-3. Use MMSA to do anti-aliasing
+3. Use MSAA to do anti-aliasing
 
 The triangle is applied with
 MVP transformation
