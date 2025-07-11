@@ -1,7 +1,11 @@
 # Rasterization-occlusion-anti-aliasing (computer graphics) 
-My solution to Games101 HW2 
+My solution to Games101 HW2 (with Eigen library)
 
-Eigen library. 
+antialiasing with 2 * 2 MMSA 
+
+<img width="451" height="361" alt="Screenshot from 2025-07-12 02-02-04" src="https://github.com/user-attachments/assets/3e1188c2-c031-4033-a7c2-2800ad295119" />
+
+<img width="590" height="425" alt="Screenshot from 2025-07-12 02-03-19" src="https://github.com/user-attachments/assets/df616632-5a0b-4cb5-b6ce-02f3af6fd692" />
 
 There're two triangles with different z depths. The goal is to display the yellow triangle in front of the blue one.
 
