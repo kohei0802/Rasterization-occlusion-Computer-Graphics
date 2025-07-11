@@ -15,9 +15,9 @@ The main task
 3. Use MSAA to do anti-aliasing
 
 The triangle is applied with
-MVP transformation
+viewing transformation
 - model transformation
-- view/viewing transformation
+- view/camera transformation
 - perspective projection transformation
 - viewport transformation
 
