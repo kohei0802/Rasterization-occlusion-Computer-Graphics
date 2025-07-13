@@ -1,3 +1,0 @@
-/home/kohei/Downloads/Assignment2/代码框架/build/CMakeFiles/Rasterizer.dir
-/home/kohei/Downloads/Assignment2/代码框架/build/CMakeFiles/edit_cache.dir
-/home/kohei/Downloads/Assignment2/代码框架/build/CMakeFiles/rebuild_cache.dir
