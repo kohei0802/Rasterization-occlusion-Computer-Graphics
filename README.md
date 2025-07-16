@@ -1,5 +1,5 @@
-# Rasterization-occlusion-anti-aliasing (computer graphics) 
-My solution to Games101 HW2 (with Eigen library)
+# Rasterization-occlusion-anti-aliasing with Eigen (computer graphics) 
+My solution to Games101 exercise 2
 
 antialiasing with 2 * 2 MSAA
 
